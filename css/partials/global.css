@@ -1,0 +1,8 @@
+.tilte-text{
+    font:normal bold 50px/72px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-uppercase{
+    text-transform: uppercase;
+}
